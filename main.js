@@ -15,7 +15,7 @@ $('#btn').click(() => {
                 <h1 class="animate__animated animate__lightSpeedInRight" id="top-text">Happy Birthday</h1>
             `)
             $('.center').append(`
-                    <h1 class="animate__animated animate__lightSpeedInLeft" id="bottom-text">Bé Vân uwu</h1>
+                    <h1 class="animate__animated animate__lightSpeedInLeft" id="bottom-text">Luv u Hane <3</h1>
                 `)
             setTimeout(()=>{
                 $('#top-text').removeClass('animate__lightSpeedInRight').addClass('animate__pulse animate__infinite')
