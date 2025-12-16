@@ -1,3 +1,9 @@
+@font-face {
+    font-family: Lattiva;
+    src: url("../1FTV-Lattiva.ttf") format('truetype');
+    font-style: normal;
+}
+
 :root {
     --base-color: rgba(255, 255, 255, 1);
     --hover-color: rgba(220, 120, 150, 1);
@@ -15,7 +21,7 @@ body {
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     margin: 0;
     padding: 0;
-    font-family: 'VT323', serif;
+    font-family: 'Lattiva', serif;
 }
 
 h1 {
